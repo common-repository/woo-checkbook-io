@@ -1,0 +1,17 @@
+#authIframe{
+  width:calc(80vw);
+  height:calc(87vh);
+}
+.tingle-modal-box__content {
+  padding: 0.5rem 0.5rem !important;
+}
+iframe{
+  margin-bottom:0px;
+}
+.tingle-modal__close {
+  font-size:4rem !important;
+}
+.tingle-modal-box {
+width:40% !important;
+height:90% !important;
+}
